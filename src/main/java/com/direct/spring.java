@@ -6,5 +6,6 @@ public class spring {
         System.out.println(123465465);
         System.out.println(12);
         System.out.println(546);
+        System.out.println("傻逼李得强");
     }
 }
