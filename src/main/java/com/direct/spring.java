@@ -5,5 +5,6 @@ public class spring {
         System.out.println("132456789123456789");
         System.out.println(123465465);
         System.out.println(12);
+        System.out.println(546);
     }
 }
